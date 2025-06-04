@@ -25,11 +25,11 @@ DIY-Macro is a 3x3 macropad with a rotary encoder and an OLED display. It was de
 
 ![3D PCB](https://github.com/FabioCastroMorffi/DIY-Macro/blob/main/assets/Screenshot%20from%202025-06-04%2014-27-34.png)
 
-Something to improve in the future would definitely be track placement when routing. As the amount of components increases, effective routing becomes essential!
+Something to improve in the future would definitely be **track placement** when routing. As the amount of components increases, effective routing becomes essential!
 
 ## CAD Model
 
-The model is very similar to the standard one from Hackpad. The case is held in place with 4 heatset inserts that hold the top and the bottom together. My main difficulty matching the openings for the top and the bottom together for all components. Having two instances of the top helped me with this due to being able to update the top and directly check whether it matched the pcb and the bottom.
+The model is very similar to the standard one from Hackpad. The case is held in place with 4 heatset inserts that hold the top and the bottom together. My main struggle relied on matching the openings for the top and the bottom together for all components. Having two instances of the top helped me with this due to being able to update the top and directly check whether it matched the pcb and the bottom.
 
 The model was done in Fusion 360 (in the browser unfortunately)
 
@@ -41,4 +41,4 @@ The firmware is done with the kmk library in Python and I will troubleshoot(if n
 
 ## Thank you
 
-To the Hackclub Team leading this event, thank you so much for the opportunity. This introduction to hardware has expanded my views on technology and given me the opportunity get a taste of hardware design. Truly grateful for that. 
+To the Hackclub Team leading this event, thank you so much for the opportunity. This introduction to hardware has expanded my views on technology and given me the opportunity get a taste of hardware design. I'm truly grateful for that. 
