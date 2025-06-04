@@ -35,6 +35,11 @@ The model was done in Fusion 360 (in the browser unfortunately)
 
 ![3D Model](https://github.com/FabioCastroMorffi/DIY-Macro/blob/main/assets/Screenshot%20from%202025-06-04%2015-02-57.png) 
 
+## Layers and Top View
+![Layers containg each component](https://github.com/FabioCastroMorffi/DIY-Macro/blob/main/assets/Screenshot%20from%202025-06-04%2019-08-33.png)
+
+![Top View](https://github.com/FabioCastroMorffi/DIY-Macro/blob/main/assets/Screenshot%20from%202025-06-04%2019-09-24.png)
+
 ## Firmware
 
 The firmware is done with the kmk library in Python and I will troubleshoot(if necessary) upon the receiving of the kit. 
